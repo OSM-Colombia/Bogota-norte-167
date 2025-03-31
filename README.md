@@ -1,12 +1,10 @@
-# Fotos: Lugar ZZZ, Municipio XXX, Departamento YYY.
+# Fotos: Lugar Calle 167, Municipio Bogotá, Departamento Bogotá.
 
 <img width="500" alt="Zona de trabajo" src="Zona de trabajo.png">
 
 Estas son las fechas de captura de las fotos:
 
-* Aéreas desde drone: YYYY-MM-DD
-* A nivel de calle: YYYY-MM-DD
-  * Secuencia en Mapillary: XXX
+* Aéreas desde drone: 2025-03-23
 
 Hay diferente tipos de fotos:
 
